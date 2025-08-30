@@ -9,6 +9,7 @@
 ## ⚡️ Tech Stack  
 
 **Frontend:**  
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -19,11 +20,13 @@
 ![ShadcnUI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat&logo=shadcnui&logoColor=white)  
 
 **State Management & Data Fetching:**  
+
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) 
 ![Zustand](https://img.shields.io/badge/Zustand-593D88?style=flat&logo=zustand&logoColor=white) 
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white)  
 
 **Other Tools:**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) 
